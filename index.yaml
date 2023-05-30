@@ -3,7 +3,7 @@ entries:
   civiparoisse:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-30T14:53:18.609340757Z"
+    created: "2023-05-30T14:56:37.505724392Z"
     description: A Helm chart for Kubernetes
     digest: c854b96c112d24787034b996738dd41699b2865e31d586a15f1234f1c52fd26d
     name: civiparoisse
@@ -13,12 +13,12 @@ entries:
     version: v0.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-30T14:53:18.608734745Z"
+    created: "2023-05-30T14:56:37.504364187Z"
     description: A Helm chart for Kubernetes
-    digest: 469ce8473e98d7ec4453fb6505b5707b4b4d082ce1ea2c6483311e512ae5cf22
+    digest: 4cf89d275007a9295fa3e9d17e15b21f1548eaf1bf0f44e67b10c3f66cd0326b
     name: civiparoisse
     type: application
     urls:
     - civiparoisse-v0.0.0.tgz
     version: v0.0.0
-generated: "2023-05-30T14:53:18.607021511Z"
+generated: "2023-05-30T14:56:37.503532683Z"
