@@ -3,7 +3,7 @@ entries:
   civiparoisse:
   - apiVersion: v2
     appVersion: v0.1.3
-    created: "2023-06-07T21:06:32.658500619Z"
+    created: "2023-06-07T21:09:03.402064868Z"
     description: A Helm chart for Kubernetes
     digest: 240694803a510119c7a5b405fe9cc97fef8571a0c5d962ecbd6340f7186741cf
     name: civiparoisse
@@ -13,7 +13,7 @@ entries:
     version: v0.1.3
   - apiVersion: v2
     appVersion: v0.1.2
-    created: "2023-06-07T21:06:32.657879188Z"
+    created: "2023-06-07T21:09:03.401389862Z"
     description: A Helm chart for Kubernetes
     digest: 53c5b13f326f0b57b43311198403e9444939519364b2c6c6be744c9aac002df5
     name: civiparoisse
@@ -23,7 +23,7 @@ entries:
     version: v0.1.2
   - apiVersion: v2
     appVersion: v0.1.1
-    created: "2023-06-07T21:06:32.657201655Z"
+    created: "2023-06-07T21:09:03.400624154Z"
     description: A Helm chart for Kubernetes
     digest: 5a7b36c5b2d53c9ae4b9d10963a3273e8ce444f0c83d4950b72030f433a68fe9
     name: civiparoisse
@@ -33,7 +33,7 @@ entries:
     version: v0.1.1
   - apiVersion: v2
     appVersion: v0.1.1-feat-cronjob
-    created: "2023-06-07T21:06:32.656518521Z"
+    created: "2023-06-07T21:09:03.400009549Z"
     description: A Helm chart for Kubernetes
     digest: 43ba22e0aaf18ef6aecd6a6679077e2fd61f53590e203776bed8837b7ed1a0af
     name: civiparoisse
@@ -43,12 +43,12 @@ entries:
     version: v0.1.1-feat-cronjob
   - apiVersion: v2
     appVersion: main
-    created: "2023-06-07T21:06:32.654997446Z"
+    created: "2023-06-07T21:09:03.399321042Z"
     description: A Helm chart for Kubernetes
-    digest: 5b8c54999c43aa431efd49b0b987188a7eb059f2663352caead6e742e0489d28
+    digest: 5b8a674178603cf3ba2eafa2c61c515eac21f4d1367b5553bcc7ad452903c8d8
     name: civiparoisse
     type: application
     urls:
     - civiparoisse-v0.0.0.tgz
     version: v0.0.0
-generated: "2023-06-07T21:06:32.653999997Z"
+generated: "2023-06-07T21:09:03.398494634Z"
